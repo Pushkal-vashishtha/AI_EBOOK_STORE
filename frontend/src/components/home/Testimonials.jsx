@@ -3,15 +3,15 @@ import { TESTIMONIALS } from "../../utils/constants";
 
 const stats = [
   {
-    value: "50K+",
+    value: "5K+",
     label: "Happy Users",
   },
   {
-    value: "4.9/5",
+    value: "4/5",
     label: "Average Rating",
   },
   {
-    value: "100K+",
+    value: "10K+",
     label: "eBooks Created",
   },
 ];

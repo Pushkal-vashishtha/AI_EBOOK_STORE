@@ -5,28 +5,22 @@ import LogoIcon from "../LogoIcon";
 
 const socials = [
   {
-    href: "https://math-to-dev.vercel.app/",
-    ariaLabel: "Visit my portfolio",
+    href: "https://ai-ebook-store-ctac.vercel.app/",
+    ariaLabel: "URL",
     icon: Globe,
     imgSrc: "",
   },
   {
-    href: "https://github.com/KeepSerene",
+    href: "https://github.com/Pushkal-vashishtha",
     ariaLabel: "Visit my GitHub",
     icon: null,
     imgSrc: "/social-icons/github.svg",
   },
   {
-    href: "https://www.linkedin.com/in/dhrubajyoti-bhattacharjee-320822318/",
+    href: "https://www.linkedin.com/in/pushkal-vashishtha-54701a185/",
     ariaLabel: "Visit my LinkedIn",
     icon: null,
     imgSrc: "/social-icons/linkedin.svg",
-  },
-  {
-    href: "https://x.com/UsualLearner",
-    ariaLabel: "Visit my X (formerly Twitter) page",
-    icon: null,
-    imgSrc: "/social-icons/x.svg",
   },
 ];
 
@@ -142,11 +136,11 @@ function Footer() {
               <span>
                 by{" "}
                 <a
-                  href="https://github.com/KeepSerene"
+                  href="https://github.com/Pushkal-vashishtha"
                   target="_blank"
                   className="text-white transition-all duration-200 hover:underline focus-visible:underline"
                 >
-                  @KeepSerene
+                  @Pushkal-vashishtha
                 </a>
                 , for creators
               </span>

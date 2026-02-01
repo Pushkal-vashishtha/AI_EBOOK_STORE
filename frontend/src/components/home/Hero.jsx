@@ -11,11 +11,11 @@ import React from "react";
 
 const stats = [
   {
-    value: "50K+",
+    value: "5K+",
     label: "Books Created",
   },
   {
-    value: "4.9/5",
+    value: "4/5",
     label: "User Rating",
   },
   {
